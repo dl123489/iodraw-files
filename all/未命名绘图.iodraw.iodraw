@@ -11,10 +11,10 @@
           <mxGeometry x="61" y="103" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-2" value="初始化成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="180" width="135" height="135" as="geometry" />
+          <mxGeometry x="111" y="180" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-3" value="配置PA8~PA10为ADC模拟输入模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="53" y="431" width="252" height="66" as="geometry" />
+          <mxGeometry x="53" y="350" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-4" value="采集TCRT5000传感器电压值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49" y="547" width="258" height="48" as="geometry" />
