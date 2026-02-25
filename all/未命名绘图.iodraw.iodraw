@@ -17,7 +17,7 @@
           <mxGeometry x="53" y="350" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-4" value="采集TCRT5000传感器电压值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="49" y="547" width="258" height="48" as="geometry" />
+          <mxGeometry x="50" y="450" width="258" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-5" value="经预设阈值判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="28" y="646" width="172" height="48" as="geometry" />
