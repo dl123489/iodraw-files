@@ -26,7 +26,7 @@
           <mxGeometry x="28" y="640" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-7" value="获取偏移方向、偏移量与路面轨迹状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="45" y="820" width="252" height="66" as="geometry" />
+          <mxGeometry x="45" y="740" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncPn-9V6KaC2DIccpPIR-0" target="ncPn-9V6KaC2DIccpPIR-1">
           <mxGeometry relative="1" as="geometry">
@@ -56,17 +56,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncPn-9V6KaC2DIccpPIR-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncPn-9V6KaC2DIccpPIR-6" target="ncPn-9V6KaC2DIccpPIR-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="114" y="818" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=-0.01;entryX=0.62;entryY=1.02;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncPn-9V6KaC2DIccpPIR-7" target="ncPn-9V6KaC2DIccpPIR-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="243" y="818" />
+              <mxPoint x="250" y="640" />
               <mxPoint x="243" y="621" />
             </Array>
           </mxGeometry>
