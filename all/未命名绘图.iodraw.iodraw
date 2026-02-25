@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncPn-9V6KaC2DIccpPIR-10" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0.52;entryY=1.02;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncPn-9V6KaC2DIccpPIR-2" target="ncPn-9V6KaC2DIccpPIR-1">
+        <mxCell id="ncPn-9V6KaC2DIccpPIR-10" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.52;entryY=1.02;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncPn-9V6KaC2DIccpPIR-2" target="ncPn-9V6KaC2DIccpPIR-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="210" />
