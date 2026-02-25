@@ -20,7 +20,7 @@
           <mxGeometry x="65.5" y="300" width="229" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-5" value="经预设阈值判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="28" y="490" width="152" height="30" as="geometry" />
+          <mxGeometry x="47" y="370" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-6" value="红外阵列逻辑运算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="29" y="584" width="170" height="30" as="geometry" />
