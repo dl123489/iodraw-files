@@ -23,7 +23,7 @@
           <mxGeometry x="28" y="490" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-6" value="红外阵列逻辑运算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="580" width="188" height="48" as="geometry" />
+          <mxGeometry x="29" y="584" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-7" value="获取偏移方向、偏移量与路面轨迹状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="51" y="660" width="239" height="40" as="geometry" />
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-18" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="760" width="90" height="40" as="geometry" />
+          <mxGeometry x="125.5" y="750" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncPn-9V6KaC2DIccpPIR-7" target="ncPn-9V6KaC2DIccpPIR-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
