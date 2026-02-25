@@ -10,8 +10,13 @@
         <mxCell id="ncPn-9V6KaC2DIccpPIR-1" value="初始化单片机外设与引脚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="61" y="103" width="236" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="ncPn-9V6KaC2DIccpPIR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ncPn-9V6KaC2DIccpPIR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.0000000000002" y="247.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-2" value="初始化成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="111" y="180" width="135" height="135" as="geometry" />
+          <mxGeometry x="70" y="180" width="176" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ncPn-9V6KaC2DIccpPIR-3" value="配置PA8~PA10为ADC模拟输入模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="53" y="350" width="252" height="66" as="geometry" />
